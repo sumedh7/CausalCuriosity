@@ -18,7 +18,7 @@ For CausalWorld experiments, run
 ```python
 python plan_and_write_video_vanilla_cw.py
 ```
-##Citation
+## Citation
 ```
 @article{sontakke2020causal,
   title={Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning},
