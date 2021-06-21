@@ -1,4 +1,4 @@
-# CausalCuriosity
+# Causal Curiosity
 Official implementation of Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning at ICML 2021. 
 [Paper](https://arxiv.org/abs/2010.03110) and [Website](https://sites.google.com/usc.edu/causal-curiosity/home)
 ## Installation
